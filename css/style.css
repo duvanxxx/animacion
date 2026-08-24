@@ -1,0 +1,62 @@
+#fondo{
+    position:absolute;
+    width: 1280px;
+    height: 720px;
+    background-image: url(../img/fondo.png);
+    top:0px;
+    left:0px;
+}
+#chasis{
+     position:absolute;
+    width: 1280px;
+    height: 500px;
+    background-image: url(../img/chasis.png);
+    top: 0px;
+    left:150px;
+}
+#luz{
+     position:absolute;
+    width: 107px;
+    height: 125px;
+    background-image: url(../img/luz.png);
+    top: 320px;
+    left:360px;
+}
+#platon{
+     position:absolute;
+    width: 792px;
+    height: 792px;
+    background-image: url(../img/platon.png);
+    top: -180px;
+    left: 515px;
+}
+#llanta1{
+     position:absolute;
+    width: 105px;
+    height: 104px;
+    background-image: url(../img/llanta.png);
+    top: 445px;
+    left:495px;
+}
+#llanta2{
+     position:absolute;
+    width: 105px;
+    height: 104px;
+    background-image: url(../img/llanta.png);
+    top: 450px;
+    left:800px;
+}
+#llanta3{
+     position:absolute;
+    width: 105px;
+    height: 104px;
+    background-image: url(../img/llanta.png);
+    top: 450px;
+    left:915px;
+}
+#butons{
+     position:absolute;
+    
+    top: 650px;
+    left:298px;
+}
